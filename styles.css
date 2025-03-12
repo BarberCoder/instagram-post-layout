@@ -37,6 +37,7 @@ body {
     background-image: url("./test2.jpg");
     height: 240px;
     width: 360px;
+    background-size: cover;
 }
 .post-icon{
     margin-top: 20px;
