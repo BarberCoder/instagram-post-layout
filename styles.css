@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: color;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.post {
+    width: 360px;
+    height: 500px;
+    background-color: white;
+}
