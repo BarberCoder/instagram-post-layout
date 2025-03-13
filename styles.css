@@ -21,11 +21,11 @@ body {
     height: 65px;
     font-size: 13px;
     display: flex;
+    justify-content: space-between;
 }
 .post-title {
     display: flex;
     margin-left: 10px;
-    height:65px;
 }
 .titles{
     display: flex;
@@ -46,16 +46,18 @@ body {
 }
 .header-options{
  font-size: 35px;
- margin-top: 15px;
- margin-left: 240px;
+ margin-right: 10px;
+ display: flex;
+ align-items: center;
 }
 .reactions {
     display: flex;
     padding: 10px;
     font-size: 24px;
+    justify-content: space-between;
 }
 .right {
-    margin-left: 230px;
+    margin-right: 5px;
 }
 .descript{
     padding: 8px;
